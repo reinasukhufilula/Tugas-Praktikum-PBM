@@ -15,4 +15,4 @@
 - Pada hari jumat depan dipersiapkan untuk presentasi hasil tugas yang telah dikerjakan (Dapat nilai tambah).
 
 ### Contoh Kasaran
-![image](https://github.com/ilhmwisnu/tugas_pbm_pertemuan_6/blob/main/assets/image.jpg?raw=true)
+![image](https://github.com/ilhmwisnu/tugas_pbm_pertemuan_6/blob/main/assets/image.jpg?raw=true)#Tugas-Praktikum-PBM
